@@ -1,0 +1,31 @@
+.box {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  line-height: 50px;
+  text-align: center;
+  border: 1px solid lightgrey;
+}
+
+.empty {
+  background-color: darkgrey;
+  text-indent: -99999999999px;
+}
+
+.filled {
+  background-color: teal;
+  color: lightgoldenrodyellow;
+}
+
+#puzzle {
+  position: relative;
+  margin-bottom: 100px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#message {
+  color: red;
+}

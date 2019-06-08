@@ -1,0 +1,71 @@
+/*!
+*
+* Twitter Bootstrap
+*
+*/
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/* html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+} */
+
+.row {
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin-bottom: 1.4em;
+}
+
+#hero {
+  font-size: 10vw;
+  text-align: center;
+}
+
+body {
+  color: #d5c4a1;
+  background-color: #1d2021;
+}
+
+.form-control {
+  color: #1d2021;
+  background-color: #d5c4a1;
+  opacity: 0.2;
+}
+
+.form-control:focus {
+  color: #1d2021;
+  background-color: #f5e6c8;
+  opacity: 0.9;
+  border-color: #1d2021;
+}
+
+a {
+  text-decoration: none;
+  color: #ebdbb2;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+a:hover {
+  color: #ebdbb2;
+  font-weight: bold;
+}
+
+.btn {
+  font-family: sans-serif;
+  color: #d5c4a1;
+  background: rgba(70, 70, 70, .5);
+  background-color: rgba(70, 70, 70, .5);
+  border: 2px solid rgba(70, 70, 70, .5);
+  font-weight: normal;
+  box-shadow: none;
+  text-shadow: none;
+  border-radius: 3px;
+  font-size: initial;
+}
