@@ -6,6 +6,7 @@ This program is written in pure JavaScript, for now. I plan on implementing serv
 Next in line for implementation are A* and implementation of a genetic algorithm for solving this
 
 ## IN ACTION
+### ![Live Demo](https://rentorious.github.io/Lloyds-Puzzle-Solver/)
 ### Scambling the puzzle
 ![Scramble puzzle gif](./gifs/scramble.gif "Scramble puzzle")
 ### Dijstra solver
