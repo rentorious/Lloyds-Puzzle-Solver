@@ -12,5 +12,5 @@ Next in line for implementation are A* and implementation of a genetic algorithm
 ![Djistra solving gif](./gifs/dijkstra.gif "Djistra solver")
 ### BFS
 ![BFS solving gif](./gifs/bfs.gif "BFS solver")
-### Dijstra solver
+### Gredy solver
 ![Greedy solving gif](./gifs/greedy.gif "geedy fail solver")
