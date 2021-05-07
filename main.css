@@ -29,6 +29,7 @@
 }
 
 body {
+  margin-top: 50px;
   color: #d5c4a1;
   background-color: #1d2021;
 }
@@ -60,9 +61,9 @@ a:hover {
 .btn {
   font-family: sans-serif;
   color: #d5c4a1;
-  background: rgba(70, 70, 70, .5);
-  background-color: rgba(70, 70, 70, .5);
-  border: 2px solid rgba(70, 70, 70, .5);
+  background: rgba(70, 70, 70, 0.5);
+  background-color: rgba(70, 70, 70, 0.5);
+  border: 2px solid rgba(70, 70, 70, 0.5);
   font-weight: normal;
   box-shadow: none;
   text-shadow: none;
